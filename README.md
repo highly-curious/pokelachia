@@ -1,6 +1,9 @@
-# Pokémon Crystal [![Build Status][ci-badge]][ci]
+# Pokélachia Alpha
 
-This is a disassembly of Pokémon Crystal.
+Project repo for alpha build of Project Pokelachia, based on pokecrystal, a disassembly of Pokémon Crystal
+
+- Created by merging the 255-tiles branch and no-maps branch from Rangi42's fork of pokecrystal.
+- 
 
 It builds the following ROMs:
 
